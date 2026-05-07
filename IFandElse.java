@@ -3,7 +3,6 @@ public class IFandElse
     public static void main(String[] args)
     {
         int nota = 80;
-        char grade = 'B';
 
         if(nota>=50){
             System.out.println("Passed");
